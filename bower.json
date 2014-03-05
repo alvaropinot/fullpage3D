@@ -1,0 +1,12 @@
+{
+  "name": "fullpage3D",
+  "private": true,
+  "dependencies": {
+    "sass-bootstrap": "~3.0.0",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2",
+    "jmpress": "~0.4.5",
+    "fontawesome": "~4.0.3"
+  },
+  "devDependencies": {}
+}
